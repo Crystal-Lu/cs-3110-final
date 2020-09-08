@@ -1,0 +1,10 @@
+INSTALL INSTRUCTIONS
+XQuartz must be installed.
+The OCAML Graphics package must also be installed.
+1. Type “make play”
+
+PLAY INSTRUCTIONS
+1. Type “1” or “2” (“one” or “two” works too) to choose the number of players.
+2. Type a column number, ranging from 1 to 7, to place the dot. You can quit in the middle of the game by typing "quit."
+3. If one of the players win, then the game will indicate who has won and will exit itself.
+
